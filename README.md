@@ -84,4 +84,4 @@ This internship provided me with valuable hands-on experience in Python programm
 
 
 ### 📬 Contact Information
-For more about me, visit my [GitHub Profile](https://github.com/Dumbosaurus) or connect on LinkedIn.
+For more about me, visit my [GitHub Profile](https://github.com/Dumbosaurus) or connect on [LinkedIn](https://www.linkedin.com/in/wahid-jamadar-183a762b1/).
